@@ -1,0 +1,12 @@
+.popup-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rules-image {
+  height: 500px;
+  width: 580px;
+}
+.close-button-container {
+  text-align: right;
+}
